@@ -1,7 +1,9 @@
 # The-Last-Checkpoint
 
 🌟 Mon Parcours - Point de Contrôle du Bootcamp
+
 🚀 Prête pour la Suite !
+
 Après ces semaines intenses de formation, je me sens [prête / confiante / en progression] pour entamer une nouvelle étape dans mon parcours professionnel en développement web. Ce bootcamp a été une aventure enrichissante, pleine de défis, d'apprentissages et de belles découvertes techniques et humaines.
 
 🔥 Compétences Acquises
