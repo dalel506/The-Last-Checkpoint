@@ -17,13 +17,13 @@ Back-end : Node.js, Express, bases de données SQL/NoSQL
 
 🛠️ Outils & Méthodologies:
 
-Git & GitHub pour le version control
-Debugging et écriture de code propre
+Git & GitHub pour le version control///
+Debugging et écriture de code propre///
 Méthodologies agiles et travail en équipe
 
 🤝 Travail Collaboratif:
 
-Pair programming et revue de code
+Pair programming et revue de code///
 Gestion de projet avec GitHub
 
 🎯 Objectifs pour la Suite:
@@ -33,4 +33,5 @@ Gestion de projet avec GitHub
 ✅ Contribuer à des projets open source
 
 📝 Conclusion
+
 Ce bootcamp m’a apporté bien plus que des compétences techniques : il m’a appris à surmonter les obstacles, à travailler en équipe et à être résiliente face aux défis. Je suis impatiente de continuer à évoluer et à me perfectionner dans ce domaine passionnant !
