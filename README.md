@@ -6,12 +6,13 @@
 
 Après ces semaines intenses de formation, je me sens [prête / confiante / en progression] pour entamer une nouvelle étape dans mon parcours professionnel en développement web. Ce bootcamp a été une aventure enrichissante, pleine de défis, d'apprentissages et de belles découvertes techniques et humaines.
 
-🔥 Compétences Acquises
+🔥 Compétences Acquises:
+
 Durant cette formation, j’ai pu renforcer et développer plusieurs compétences clés :
 
 🖥️ Développement Web:
 
-Front-end : HTML, CSS, JavaScript, React
+Front-end : HTML, CSS, JavaScript, React ///
 Back-end : Node.js, Express, bases de données SQL/NoSQL
 
 🛠️ Outils & Méthodologies:
@@ -27,8 +28,8 @@ Gestion de projet avec GitHub
 
 🎯 Objectifs pour la Suite:
 
-✅ Travailler sur des projets concrets pour approfondir mes compétences
-✅ Rechercher des opportunités professionnelles (stage, emploi, freelance)
+✅ Travailler sur des projets concrets pour approfondir mes compétences///
+✅ Rechercher des opportunités professionnelles (stage, emploi, freelance)///
 ✅ Contribuer à des projets open source
 
 📝 Conclusion
